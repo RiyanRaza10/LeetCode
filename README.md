@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RiyanRaza10/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/RiyanRaza10/LeetCode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/RiyanRaza10/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/RiyanRaza10/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

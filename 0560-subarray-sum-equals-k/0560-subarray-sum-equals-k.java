@@ -5,23 +5,22 @@ class Solution {
         //            value : number of subarrays with same prefixsum  
         HashMap<Integer , Integer> map = new HashMap<>();
         
-        int prefixSum = 0 , ans = 0;
+        int sum = 0 , ans = 0;
 
         // Base case -> if sum == k
         map.put(0 , 1);
 
         for(int i=0 ; i<nums.length ; i++){
-            prefixSum += nums[i];
+            sum += nums[i];
 
-            // Required subarray
-            int diff = prefixSum - k;
+            int diff = sum - k;
 
             if(map.containsKey(diff)){
                 ans += map.get(diff);
             }
 
-            // Putting number of subarrays ending with same prefixSum
-            map.put(prefixSum , map.getOrDefault(prefixSum , 0) + 1);
+            // Number of subarrays ending with sum
+            map.put(sum , map.getOrDefault(sum , 0) + 1);
         }
 
         return ans;

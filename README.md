@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RiyanRaza10/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/RiyanRaza10/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0137-single-number-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0137-single-number-ii) |
 | [0493-reverse-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0775-global-and-local-inversions](https://github.com/RiyanRaza10/LeetCode/tree/master/0775-global-and-local-inversions) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/0493-reverse-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/RiyanRaza10/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/RiyanRaza10/LeetCode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0344-reverse-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RiyanRaza10/LeetCode/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RiyanRaza10/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/RiyanRaza10/LeetCode/tree/master/0049-group-anagrams) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RiyanRaza10/LeetCode/tree/master/0011-container-with-most-water) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0137-single-number-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->

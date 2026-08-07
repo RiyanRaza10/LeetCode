@@ -2,13 +2,13 @@ class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
         Map<Integer , Integer> map = new HashMap<>();
 
-        int cnt = 0 , sum = 0;
+        int sum = 0 , cnt = 0;
 
-        // Base case
+        // Base Case
         map.put(0 , 1);
 
-        for(int val : nums){
-            sum += val;
+        for(int i=0 ; i<nums.length ; i++){
+            sum += nums[i];
 
             int req = sum - goal;
 

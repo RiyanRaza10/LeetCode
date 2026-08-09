@@ -40,14 +40,11 @@ class Solution {
 
                     validWindowFound = true;
 
-                    if(right - left+1 < minLen){
-                        minLen = right - left + 1;
-
-                        System.out.println(minLen + " : " + start + " " + end);                
+                    if(right - left + 1 < minLen){
+                        minLen = right - left + 1;                
 
                         start = left;
                         end = right;
-
                     }
                 
                 mapS[s.charAt(left)]--;
@@ -57,8 +54,7 @@ class Solution {
             right++;
         }
         
-        System.out.println(left + " " + right);
-        
+        // No valid window found
         if(!validWindowFound) return "";
 
         return s.substring(start , end + 1);

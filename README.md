@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RiyanRaza10/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiyanRaza10/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1314-matrix-block-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiyanRaza10/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RiyanRaza10/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiyanRaza10/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Binary Search

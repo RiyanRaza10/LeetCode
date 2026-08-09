@@ -1,45 +1,76 @@
+// Approach - 3 {Better version of Approach - 2}
+
 class Solution {
+
     public int numSubarraysWithSum(int[] nums, int goal) {
+        return CountSubarray(nums , goal) - CountSubarray(nums , goal-1);
+    }
 
-        // Key Idea :
-        // (Total subarrays with sum == goal) = (Total subarrays with sum <= goal) - (Total subarrays with sum < goal) 
-        int sum = 0 , left = 0 , right = 0 , lessThanEqualToGoalCnt = 0 , equalToGoalCnt = 0;
+    int CountSubarray(int[] nums , int goal){
+        int left = 0 , right = 0 , ans = 0 , sum = 0;
 
-        // Counting total subarrays with sum <= goal
         while(right < nums.length){
             sum += nums[right];
 
             while(left <= right && sum > goal){
                 sum -= nums[left];
+
                 left++;
             }
 
-            lessThanEqualToGoalCnt += (right - left + 1);
+            ans += (right - left + 1);
 
             right++;
         }
 
-        left = 0 ; right = 0 ; sum = 0;
-
-        // Counting total subarrays with sum < goal
-        while(right < nums.length){
-            sum += nums[right];
-
-            while(left <= right && sum >= goal){
-                sum -= nums[left];
-                left++;
-            }
-
-            equalToGoalCnt += (right - left + 1);
-
-            right++;
-        }
-
-        // (Total subarrays with sum <= goal) - (Total subarrays with sum < goal)
-        return lessThanEqualToGoalCnt - equalToGoalCnt;
+        return ans;
     }
 }
 
+// Approach - 2 { O(1) space }
+// class Solution {
+//     public int numSubarraysWithSum(int[] nums, int goal) {
+
+//         // Key Idea :
+//         // (Total subarrays with sum == goal) = (Total subarrays with sum <= goal) - (Total subarrays with sum < goal) 
+//         int sum = 0 , left = 0 , right = 0 , lessThanEqualToGoalCnt = 0 , equalToGoalCnt = 0;
+
+//         // Counting total subarrays with sum <= goal
+//         while(right < nums.length){
+//             sum += nums[right];
+
+//             while(left <= right && sum > goal){
+//                 sum -= nums[left];
+//                 left++;
+//             }
+
+//             lessThanEqualToGoalCnt += (right - left + 1);
+
+//             right++;
+//         }
+
+//         left = 0 ; right = 0 ; sum = 0;
+
+//         // Counting total subarrays with sum < goal
+//         while(right < nums.length){
+//             sum += nums[right];
+
+//             while(left <= right && sum >= goal){
+//                 sum -= nums[left];
+//                 left++;
+//             }
+
+//             equalToGoalCnt += (right - left + 1);
+
+//             right++;
+//         }
+
+//         // (Total subarrays with sum <= goal) - (Total subarrays with sum < goal)
+//         return lessThanEqualToGoalCnt - equalToGoalCnt;
+//     }
+// }
+
+// Approach - 1 { O(n) space}
 // class Solution {
 //     public int numSubarraysWithSum(int[] nums, int goal) {
 //         Map<Integer , Integer> map = new HashMap<>();

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RiyanRaza10/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiyanRaza10/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RiyanRaza10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/RiyanRaza10/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RiyanRaza10/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiyanRaza10/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Binary Search

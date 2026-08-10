@@ -1,16 +1,14 @@
 class Solution {
 
     int rev(int n){
-        long rev = 0;
-        double mod = 1e9 + 7;
+        int revNum = 0;
 
         while(n > 0){
-            rev = rev*10 + (n%10);
-            rev %= mod;
+            revNum = revNum*10 + (n%10);
             n /= 10;
         }
 
-        return (int)(rev % mod);
+        return revNum;
     }
 
     public int countNicePairs(int[] nums) {

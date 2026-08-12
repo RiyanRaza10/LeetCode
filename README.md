@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiyanRaza10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/RiyanRaza10/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiyanRaza10/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/RiyanRaza10/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |

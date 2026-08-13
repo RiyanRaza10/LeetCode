@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/RiyanRaza10/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Array
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiyanRaza10/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sorting
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiyanRaza10/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Binary Search

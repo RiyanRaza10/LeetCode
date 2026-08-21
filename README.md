@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/RiyanRaza10/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/RiyanRaza10/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0454-4sum-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0454-4sum-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/RiyanRaza10/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/RiyanRaza10/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0149-max-points-on-a-line](https://github.com/RiyanRaza10/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiyanRaza10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/RiyanRaza10/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/RiyanRaza10/LeetCode/tree/master/0326-power-of-three) |
 | [0458-poor-pigs](https://github.com/RiyanRaza10/LeetCode/tree/master/0458-poor-pigs) |
@@ -294,4 +297,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/RiyanRaza10/LeetCode/tree/master/0458-poor-pigs) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/RiyanRaza10/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/RiyanRaza10/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/RiyanRaza10/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

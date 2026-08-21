@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RiyanRaza10/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/RiyanRaza10/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0088-merge-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/RiyanRaza10/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RiyanRaza10/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/RiyanRaza10/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/RiyanRaza10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/RiyanRaza10/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RiyanRaza10/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/RiyanRaza10/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/RiyanRaza10/LeetCode/tree/master/0881-boats-to-save-people) |

@@ -8,27 +8,27 @@ class Solution {
 
         if(nums[n-1] != nums[n-2]) return nums[n-1];
 
-        int left = 1 , right = nums.length - 2;
+        int left = 1 , right = n - 2;
 
         while(left <= right){
             int mid = left + (right - left) / 2;
 
             // Found
-            if(nums[mid] != nums[mid - 1] && nums[mid] != nums[mid + 1]) return nums[mid];
+            if(nums[mid-1] != nums[mid] && nums[mid] != nums[mid+1]) return nums[mid];
 
+            // Ideal index , need to search on the right half of mid
             // If mid is odd and element at mid and mid -1 is equal , then left part does not contain single element
             // If mid is even and elem at mid and mid+1 is equal , then also left part does not contain single elem
             // Therefore eliminate left part
-            if((mid % 2 == 1 && nums[mid] == nums[mid - 1]) || (mid % 2 == 0 && nums[mid] == nums[mid + 1])){
+            if((mid % 2 == 1 && nums[mid] == nums[mid-1]) || (mid % 2 == 0 && nums[mid] == nums[mid+1])){
                 left = mid + 1;
             }
 
-            // Else elimiate right part
-            else right = mid-1;
-
+            else{
+                right = mid - 1;
+            }
         }
 
-        // Not found
         return -1;
     }
 }

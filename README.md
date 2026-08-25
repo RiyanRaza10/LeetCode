@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RiyanRaza10/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiyanRaza10/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2523-closest-prime-numbers-in-range](https://github.com/RiyanRaza10/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/RiyanRaza10/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |

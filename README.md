@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiyanRaza10/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3689-maximum-total-subarray-value-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3862-find-the-smallest-balanced-index](https://github.com/RiyanRaza10/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/RiyanRaza10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
 | ------- |

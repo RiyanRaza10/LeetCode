@@ -1,35 +1,45 @@
 class Solution {
 
-    int findPeak(int[][] mat , int row){
-        int n = mat[row].length;
-
-        for(int j=0 ; j<mat[row].length ; j++){
-            boolean left = false , right = false , up = false , down = false;
-
-            // Verify left and right elem
-            left = (j > 0) ? mat[row][j] > mat[row][j-1] : true;
-            right = (j != n-1) ? mat[row][j] > mat[row][j+1] : true;
-
-            // Verify up and down element
-            up = (row == 0) ? true : mat[row][j] > mat[row-1][j];
-            down = (row == mat.length-1) ? true : mat[row][j] > mat[row+1][j];
-
-            // Peak found
-            if(left && right && up && down) return j;
-
-        }
-
-        return -1;
-    }
-    
-    public int[] findPeakGrid(int[][] mat) {
-        int m = mat.length , n = mat[0].length;
+    int findMaxElemIndex(int[][] mat , int col){
+        int m = mat.length , maxElem = -1 , maxElemInd = -1;
 
         for(int i=0 ; i<m ; i++){
-            
-            int ans = findPeak(mat , i);
+            if(mat[i][col] > maxElem) {
+                maxElem = mat[i][col];
+                maxElemInd = i;
+            }
+        }
 
-            if(ans != -1) return new int[]{i , ans};
+        return maxElemInd;
+    }
+
+    public int[] findPeakGrid(int[][] mat) {
+        // m - rows
+        // n - columns
+        int m = mat.length , n = mat[0].length;
+
+        int left = 0 , right = n-1;
+
+        while(left <= right){
+            int mid = left + (right - left) / 2;
+
+            // Finds max element's index on the mid-th column 
+            int maxElemIndex = findMaxElemIndex(mat , mid);
+
+            int currElem = mat[maxElemIndex][mid];
+            int leftElem = mid > 0 ? mat[maxElemIndex][mid-1] : -1;
+            int rightElem = mid < n-1 ? mat[maxElemIndex][mid + 1] : -1;
+
+            // Found Peak
+            if(currElem > leftElem && currElem > rightElem){
+                return new int[]{maxElemIndex , mid};
+            }
+
+            // Left elem is greater , eliminate right part
+            else if(currElem < leftElem) right = mid - 1;
+
+            // Right elem is greater , eliminate left part
+            else left = mid + 1;
 
         }
 

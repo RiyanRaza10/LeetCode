@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RiyanRaza10/LeetCode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/RiyanRaza10/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/RiyanRaza10/LeetCode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/RiyanRaza10/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0189-rotate-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/RiyanRaza10/LeetCode/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/RiyanRaza10/LeetCode/tree/master/0326-power-of-three) |
 ## Timsort
 |  |

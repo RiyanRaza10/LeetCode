@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RiyanRaza10/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/RiyanRaza10/LeetCode/tree/master/0274-h-index) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RiyanRaza10/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0454-4sum-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0454-4sum-ii) |
 | [0493-reverse-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/0493-reverse-pairs) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RiyanRaza10/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/RiyanRaza10/LeetCode/tree/master/0274-h-index) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/RiyanRaza10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/RiyanRaza10/LeetCode/tree/master/0923-3sum-with-multiplicity) |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/RiyanRaza10/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0047-permutations-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/RiyanRaza10/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

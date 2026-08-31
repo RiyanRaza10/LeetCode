@@ -24,6 +24,7 @@ class Solution {
         while(left <= right){
             int mid = left + (right - left) / 2;
 
+            // Valid Citation found, search larger
             if(isPossible(citations , mid)){
                 ans = mid;
                 left = mid + 1;

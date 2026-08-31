@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RiyanRaza10/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/RiyanRaza10/LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0275-h-index-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RiyanRaza10/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0454-4sum-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0454-4sum-ii) |
 | [0493-reverse-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/0493-reverse-pairs) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RiyanRaza10/LeetCode/tree/master/0162-find-peak-element) |
+| [0275-h-index-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0275-h-index-ii) |
 | [0493-reverse-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0713-subarray-product-less-than-k) |

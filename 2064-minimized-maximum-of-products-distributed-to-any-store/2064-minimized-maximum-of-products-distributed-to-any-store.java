@@ -5,9 +5,14 @@ class Solution {
 
         for(int q : quantities){
             totalStores += (int)Math.ceil((double)q / maxNoOfProducts);
+
+            // No need to further check
+            if(totalStores > n) return false;
         }
 
-        return totalStores <= n ;
+        // return totalProducts <= n ;
+
+        return true;
     }
 
     public int minimizedMaximum(int n, int[] quantities) {

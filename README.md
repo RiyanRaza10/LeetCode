@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/RiyanRaza10/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0410-split-array-largest-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0454-4sum-ii) |
+| [0475-heaters](https://github.com/RiyanRaza10/LeetCode/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/RiyanRaza10/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/RiyanRaza10/LeetCode/tree/master/0274-h-index) |
+| [0475-heaters](https://github.com/RiyanRaza10/LeetCode/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/RiyanRaza10/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0344-reverse-string) |
+| [0475-heaters](https://github.com/RiyanRaza10/LeetCode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0845-longest-mountain-in-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RiyanRaza10/LeetCode/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0475-heaters](https://github.com/RiyanRaza10/LeetCode/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |

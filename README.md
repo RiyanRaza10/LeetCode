@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0775-global-and-local-inversions](https://github.com/RiyanRaza10/LeetCode/tree/master/0775-global-and-local-inversions) |
+| [0826-most-profit-assigning-work](https://github.com/RiyanRaza10/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RiyanRaza10/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/RiyanRaza10/LeetCode/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0826-most-profit-assigning-work](https://github.com/RiyanRaza10/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/RiyanRaza10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/RiyanRaza10/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/RiyanRaza10/LeetCode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0826-most-profit-assigning-work](https://github.com/RiyanRaza10/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/RiyanRaza10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/RiyanRaza10/LeetCode/tree/master/0923-3sum-with-multiplicity) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RiyanRaza10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0826-most-profit-assigning-work](https://github.com/RiyanRaza10/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/RiyanRaza10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RiyanRaza10/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0826-most-profit-assigning-work](https://github.com/RiyanRaza10/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RiyanRaza10/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |

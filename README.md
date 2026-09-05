@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/RiyanRaza10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/RiyanRaza10/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/RiyanRaza10/LeetCode/tree/master/0915-partition-array-into-disjoint-intervals) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-3sum-with-multiplicity](https://github.com/RiyanRaza10/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/RiyanRaza10/LeetCode/tree/master/0458-poor-pigs) |
 | [0845-longest-mountain-in-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/RiyanRaza10/LeetCode/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -507,4 +510,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RiyanRaza10/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

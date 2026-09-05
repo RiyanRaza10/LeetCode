@@ -1,4 +1,4 @@
-// TC : O(log(m*n))
+// TC : O(m + n)
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
         int m = matrix.length , n = matrix[0].length;

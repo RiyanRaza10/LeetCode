@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RiyanRaza10/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1314-matrix-block-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RiyanRaza10/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RiyanRaza10/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |

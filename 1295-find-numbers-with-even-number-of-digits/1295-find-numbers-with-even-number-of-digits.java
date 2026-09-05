@@ -3,7 +3,14 @@ class Solution {
         int evenCnt = 0;
         
         for(int val : nums){
-           if( (((val + "").length()) & 1) == 0 ) evenCnt++;
+            int digitCnt = 0;
+
+            while(val > 0){
+                val /= 10;
+                digitCnt++;
+            }
+
+            if((digitCnt & 1) == 0) evenCnt++;
         }
 
         return evenCnt;

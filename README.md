@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RiyanRaza10/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/RiyanRaza10/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/RiyanRaza10/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RiyanRaza10/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/RiyanRaza10/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RiyanRaza10/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/RiyanRaza10/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RiyanRaza10/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/RiyanRaza10/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RiyanRaza10/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/RiyanRaza10/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/RiyanRaza10/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/RiyanRaza10/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RiyanRaza10/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RiyanRaza10/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/RiyanRaza10/LeetCode/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/RiyanRaza10/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Pigeonhole Principle
 |  |
 | ------- |

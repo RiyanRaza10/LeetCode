@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3862-find-the-smallest-balanced-index](https://github.com/RiyanRaza10/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/RiyanRaza10/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3903-smallest-stable-index-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RiyanRaza10/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3536-maximum-product-of-two-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/RiyanRaza10/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1537-get-the-maximum-score](https://github.com/RiyanRaza10/LeetCode/tree/master/1537-get-the-maximum-score) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RiyanRaza10/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/RiyanRaza10/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/RiyanRaza10/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/RiyanRaza10/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RiyanRaza10/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RiyanRaza10/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2831-find-the-longest-equal-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/RiyanRaza10/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -503,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/RiyanRaza10/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RiyanRaza10/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/RiyanRaza10/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Primality Test
 |  |
 | ------- |

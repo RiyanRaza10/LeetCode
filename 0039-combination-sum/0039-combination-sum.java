@@ -1,37 +1,37 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> validCombinations = new ArrayList<>();
+        List<List<Integer>> uniqueCombinations = new ArrayList<>();
 
-        backtrack(validCombinations , new ArrayList<>() , candidates , target , 0 , 0);
+        backtrack(uniqueCombinations , new ArrayList<>() , candidates , target , 0 , 0);
 
-        return validCombinations;
+        return uniqueCombinations;
+
     }
 
-    void backtrack(List<List<Integer>> validCombinations , List<Integer> currCombination , int[] candidates , int target , int currSum , int ind){
-        
-        // Invalid combination , go back
+    void backtrack(List<List<Integer>> uniqueCombinations , List<Integer> currCombination , int[] candidates , int target , int currSum , int ind){
+
+        // Cannot pick aage ke element further
         if(currSum > target) return;
-        
-        // Base case
-        if(ind == candidates.length){
-            if(currSum == target){
-                validCombinations.add(new ArrayList<>(currCombination));
-            }
+
+        // Found a valid combination
+        if(currSum == target){
+            uniqueCombinations.add(new ArrayList<>(currCombination));
 
             return;
         }
 
-        currSum += candidates[ind];
-        currCombination.add(candidates[ind]);
+        for(int i=ind ; i<candidates.length ; i++){
 
-        // Pick current element again
-        backtrack(validCombinations , currCombination , candidates , target , currSum , ind);
+            currSum += candidates[i];
+            currCombination.add(candidates[i]);
 
-        currSum -= currCombination.get(currCombination.size()-1);
-        currCombination.remove(currCombination.size()-1);
+            // Pick current element again
+            backtrack(uniqueCombinations , currCombination , candidates , target , currSum , i);
 
-        // Not pick current element again
-        backtrack(validCombinations , currCombination , candidates , target , currSum , ind+1);
- 
+            // Remove used element , cannot pick this element further
+            currSum -= currCombination.get(currCombination.size()-1);
+            currCombination.remove(currCombination.size()-1);
+            
+        }
     }
 }

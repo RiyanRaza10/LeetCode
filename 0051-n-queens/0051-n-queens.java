@@ -1,26 +1,34 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> allBoards = new ArrayList<>();
-        StringBuilder row = new StringBuilder();
-        List<String> board = new ArrayList<>();
+        List<List<String>> validBoards = new ArrayList<>();
+        
+        char[][] board = new char[n][n];
 
         for(int i=0 ; i<n ; i++){
-            row.append(".");
+            for(int j=0 ; j<n ; j++){
+                board[i][j] = '.';
+            }
         }
 
-        for(int i=0 ; i<n ; i++){
-            board.add(row.toString());
-        }
+        solve(validBoards , board , n , 0);
 
-        solve(allBoards , board , n , 0);
-
-        return allBoards;
+        return validBoards;
     }
 
-    void solve(List<List<String>> allBoards , List<String> board , int n , int row){
+    void solve(List<List<String>> validBoards , char[][] board , int n , int row){
         
+        // Base Case
+        // All rows have been visited
         if(row == n){
-            allBoards.add(new ArrayList<>(board));
+
+            // Converting board to ArrayList
+            List<String> currBoard = new ArrayList<>();
+
+            for(int i=0 ; i<n ; i++){
+                currBoard.add(new String(board[i]));
+            }
+
+            validBoards.add(new ArrayList<>(currBoard));
 
             return;
         }
@@ -29,37 +37,31 @@ class Solution {
 
             if(isSafe(board , n , row , i)){
 
-                String newRow = board.get(row).substring(0,i) + "Q" + board.get(row).substring(i+1);
-                board.set(row , newRow);
+                board[row][i] = 'Q';
 
                 // One Queen is placed in this row , try to place in next rows
-                solve(allBoards , board , n , row+1);
+                solve(validBoards , board , n , row+1);
 
                 // Backtrack
-                board.set(row , board.get(row).substring(0,i) + "." + board.get(row).substring(i+1));
+                board[row][i] = '.';
             }
 
         }
        
     }
 
-    boolean isSafe(List<String> board , int n , int row , int col){
+    boolean isSafe(char[][] board , int n , int row , int col){
 
-        // Check in same row
-        for(int i=0 ; i<n ; i++){
-            if(board.get(row).charAt(i) == 'Q') return false;
-        }
-
-        // Check in same column
-        for(int i=0 ; i<n ; i++){
-            if(board.get(i).charAt(col) == 'Q') return false;
+        // Check in same column till the current row
+        for(int i=0 ; i<row ; i++){
+            if(board[i][col] == 'Q') return false;
         }
 
         int r = row , c = col;
 
         // Left - Upside diagonal Check
         while(r >= 0 && c >= 0){
-            if(board.get(r).charAt(c) == 'Q') return false;
+            if(board[r][c] == 'Q') return false;
 
             r--;
             c--;
@@ -69,30 +71,10 @@ class Solution {
 
         // Right - Upside diagonal Check
         while(r >= 0 && c < n){
-            if(board.get(r).charAt(c) == 'Q') return false;
+            if(board[r][c] == 'Q') return false;
 
             r--;
             c++;
-        }
-
-        r = row ; c = col;
-
-        // Left - downside diagonal check
-        while(r < n && c < n){
-            if(board.get(r).charAt(c) == 'Q') return false;
-
-            r++;
-            c++;
-        }
-
-        r = row ; c = col;
-
-        // Right - downside diagonal check
-        while(r < n && c >= 0){
-            if(board.get(r).charAt(c) == 'Q') return false;
-
-            r++;
-            c--;
         }
 
         return true;

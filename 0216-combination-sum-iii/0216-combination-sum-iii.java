@@ -2,38 +2,37 @@ class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer>> validCombinations = new ArrayList<>();
 
-        int[] nums = new int[]{1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9};
-
-        backtrack(validCombinations , new ArrayList<>() , nums , k , n , 0 , 0);
+        backtrack(validCombinations , new ArrayList<>() , k , n , 0 , 1);
 
         return validCombinations;
 
     }
 
-    void backtrack(List<List<Integer>> validCombinations , List<Integer> currCombination , int[] nums , int k , int target , int currSum , int ind){
+    void backtrack(List<List<Integer>> validCombinations , List<Integer> currCombination , int k , int target , int currSum , int start){
 
-        // Cannot pick further , go back
-        if(currSum > target) return;
+        // Cannot make further combinations , invalid condition reached
+        if(currCombination.size() > k || currSum > target) return;
 
-        // Found a combination
+        // Possible valid combination found
         if(currSum == target){
             if(currCombination.size() == k){
                 validCombinations.add(new ArrayList<>(currCombination));
             }
 
             return;
-        }
-        
-        for(int i=ind ; i<nums.length ; i++){
+        } 
 
-            currSum += nums[i];
-            currCombination.add(nums[i]);
+        // Can pick only from start to 9
+        for(int i=start ; i<=9 ; i++){
 
-            // Pick
-            backtrack(validCombinations , currCombination , nums , k , target , currSum , i+1);
+            currSum += i;
+            currCombination.add(i);
+
+            // Pick next
+            backtrack(validCombinations , currCombination , k , target , currSum , i+1);
 
             // Remove used element
-            currSum -= currCombination.getLast();
+            currSum -= i;
             currCombination.removeLast();
 
         }

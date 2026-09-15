@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/RiyanRaza10/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RiyanRaza10/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/RiyanRaza10/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/RiyanRaza10/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/RiyanRaza10/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RiyanRaza10/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/RiyanRaza10/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/RiyanRaza10/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RiyanRaza10/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0090-subsets-ii) |
@@ -615,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RiyanRaza10/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

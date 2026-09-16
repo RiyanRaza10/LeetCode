@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-find-the-longest-equal-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiyanRaza10/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RiyanRaza10/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RiyanRaza10/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiyanRaza10/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RiyanRaza10/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RiyanRaza10/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Simulation
 |  |

@@ -21,12 +21,6 @@ class Solution {
             return;
         }
 
-        // Starting of string , add open
-        if(open == 0){
-            curr.append("(");
-            backtrack(all , curr , n , open+1 , closed);
-        }
-
         // Append open paren
         if(open < n){
             curr.append("(");

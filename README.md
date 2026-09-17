@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RiyanRaza10/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiyanRaza10/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyanRaza10/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RiyanRaza10/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/RiyanRaza10/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RiyanRaza10/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1537-get-the-maximum-score](https://github.com/RiyanRaza10/LeetCode/tree/master/1537-get-the-maximum-score) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RiyanRaza10/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiyanRaza10/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RiyanRaza10/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/RiyanRaza10/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RiyanRaza10/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RiyanRaza10/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RiyanRaza10/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyanRaza10/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RiyanRaza10/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/RiyanRaza10/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |

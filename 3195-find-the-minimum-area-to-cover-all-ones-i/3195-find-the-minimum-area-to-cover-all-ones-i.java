@@ -1,55 +1,25 @@
 class Solution {
     public int minimumArea(int[][] grid) {
-        int upper = 0 , lower = grid.length-1 , left = 0 , right = grid[0].length-1;
+        int n = grid.length , m = grid[0].length;
 
-        // First row containing '1'
-        for(int i=0 ; i<grid.length ; i++){
-            int sum = 0;
-            for(int j=0 ; j<grid[i].length ; j++){
-                sum += grid[i][j];
+        int minRow = 10000;
+        int minCol = 10000;
+        int maxRow = -1;
+        int maxCol = -1;
+
+        for(int i=0 ; i<n ; i++){
+            for(int j=0 ; j<m ; j++){
+
+                if(grid[i][j] == 1){
+                    minRow = Math.min(minRow , i); // First row containing '1'
+                    maxRow = Math.max(maxRow , i); // Last row containing '1'
+
+                    minCol = Math.min(minCol , j); // First Column containing '1'
+                    maxCol = Math.max(maxCol , j); // Last Column containing '1'
+                }
             }
-
-            if(sum != 0) break;
-
-            upper++;
         }
 
-        // Last row containing '1'
-        for(int i=grid.length-1 ; i>=0 ; i--){
-            int sum = 0;
-            for(int j=0 ; j<grid[i].length ; j++){
-                sum += grid[i][j];
-            }
-
-            if(sum != 0) break;
-
-            lower--;
-        }
-
-        // First Column containing '1'
-        for(int i=0 ; i<grid[0].length ; i++){
-            int sum = 0;
-            for(int j=0 ; j<grid.length ; j++){
-                sum += grid[j][i];
-            }
-
-            if(sum != 0) break;
-
-            left++;
-        }
-
-        // Last Column containing '1'
-        for(int i=grid[0].length-1 ; i>=0 ; i--){
-            int sum = 0;
-            for(int j=0 ; j<grid.length ; j++){
-                sum += grid[j][i];
-            }
-
-            if(sum != 0) break;
-
-            right--;
-        }
-
-        return (right - left + 1) * (lower - upper + 1);
+        return (maxRow - minRow + 1) * (maxCol - minCol + 1);
     }
 }

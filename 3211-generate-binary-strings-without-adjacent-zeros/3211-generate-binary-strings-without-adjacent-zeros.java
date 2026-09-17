@@ -1,49 +1,40 @@
 class Solution {
     public List<String> validStrings(int n) {
-        List<String> validCombinations = new ArrayList<>();
+        List<String> validStrings = new ArrayList<>();
 
-        backtrack(validCombinations , new StringBuilder() , n);
+        backtrack(validStrings , new StringBuilder() , n);
 
-        return validCombinations;
+        return validStrings;
     }
 
-    void backtrack(List<String> validCombinations , StringBuilder curr , int n){
+    void backtrack(List<String> validStrings , StringBuilder curr , int n){
         
-        // Oversized string , go back
+        // Length exceed the required length , go back
         if(curr.length() > n) return;
 
-        // Valid Combination found
+        // Valid String found
         if(curr.length() == n){
-            validCombinations.add(curr.toString());
+            validStrings.add(curr.toString());
 
             return;
         }
 
-        // Initial combination , can use both '0' and '1'
-        if(curr.length() == 0){
+        // Can use '0' , only if curr is empty or last insered character is '1'
+        if(curr.length() == 0 || curr.charAt(curr.length()-1) == '1'){
             curr.append("0");
 
-            backtrack(validCombinations , curr , n);
+            backtrack(validStrings , curr , n);
 
             curr.deleteCharAt(curr.length()-1);
         }
 
-        // Check if last used char is not '0'
-        if(curr.length() > 0 && curr.charAt(curr.length()-1) == '1'){
-            curr.append("0");
-
-            backtrack(validCombinations , curr , n);
-
-            curr.deleteCharAt(curr.length()-1);
-        }
-
-        // Append '1'
+        // Can use '1' anytime
         curr.append("1");
 
-        backtrack(validCombinations , curr , n);
+        backtrack(validStrings , curr , n);
 
         // Backtrack
         curr.deleteCharAt(curr.length()-1);
-        
+
     }
 }

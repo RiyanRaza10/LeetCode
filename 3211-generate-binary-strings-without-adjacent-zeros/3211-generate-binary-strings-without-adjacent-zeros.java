@@ -9,10 +9,7 @@ class Solution {
 
     void backtrack(List<String> validStrings , StringBuilder curr , int n){
         
-        // Length exceed the required length , go back
-        if(curr.length() > n) return;
-
-        // Valid String found
+        // Valid String of required length found
         if(curr.length() == n){
             validStrings.add(curr.toString());
 

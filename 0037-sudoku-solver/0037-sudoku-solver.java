@@ -30,6 +30,7 @@ class Solution {
             }
         }
 
+        // Already solved sudoku
         return true;
 
     }
@@ -41,27 +42,13 @@ class Solution {
             if(board[row][i] == ch) return false;
 
             if(board[i][col] == ch) return false;
-        }
 
-        int startRow = validate(row);
-        int startCol = validate(col);
+            // Checking 3*3 box
 
-        // Checking 3*3 box
-        for(int i=startRow ; i<startRow+3 ; i++){
-            for(int j=startCol ; j<startCol+3 ; j++){
-
-                if(board[i][j] == ch) return false;
-
-            }
+            if(board[3 * (row / 3) + i / 3][3 * (col / 3) + i % 3] == ch) return false;
         }
 
         return true;
     }
-
-    int validate(int rowOrCol){
-        if(rowOrCol <= 2) return 0;
-        else if(rowOrCol <= 5) return 3;
-        return 6;
-    }
-
+    
 }

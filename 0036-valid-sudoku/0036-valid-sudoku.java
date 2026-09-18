@@ -16,32 +16,14 @@ class Solution {
         // Checking row
         for(int i=0 ; i<9 ; i++){
             if(i != col && board[row][i] == ch) return false;
-        }
 
-        // Checking col
-        for(int i=0 ; i<9 ; i++){
             if(i != row && board[i][col] == ch) return false;
-        }
 
-        int startRow = validate(row);
-        int startCol = validate(col);
-
-        // Checking 3*3 box
-        for(int i=startRow ; i<startRow+3 ; i++){
-            for(int j=startCol ; j<startCol+3 ; j++){
-                
-                if((i != row || j != col) && board[i][j] == ch) return false;
-
-            }
+            // Checking 3*3 box
+            if(board[3 * (row / 3) + i/3][3 * (col / 3) + i%3] == ch && (row != 3 * (row / 3) + i/3 || col != 3 * (col / 3) + i%3)) return false;
         }
 
         return true;
-    }
-
-    int validate(int rowOrCol){
-        if(rowOrCol <= 2) return 0;
-        else if(rowOrCol <= 5) return 3;
-        else return 6;
     }
 
 }

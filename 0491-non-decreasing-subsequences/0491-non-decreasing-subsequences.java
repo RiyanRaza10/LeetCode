@@ -26,6 +26,9 @@ class Solution {
 
         currCombination.removeLast();
 
+        // Skip duplicates
+        while(ind < nums.length-1 && nums[ind] == nums[ind+1]) ind++;
+
         // Not pick
         backtrack(allCombinations , currCombination , nums , ind+1);
     }

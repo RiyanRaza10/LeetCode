@@ -1,5 +1,5 @@
 class Solution {
-    public List<List<Integer>> findSubsequences(int[] nums) {
+    public List<List<Integer>> findSubsequences(int[] nums) {       
         Set<List<Integer>> allCombinations = new HashSet<>();
 
         backtrack(allCombinations , new ArrayList<>() , nums , 0);
@@ -25,9 +25,6 @@ class Solution {
         backtrack(allCombinations , currCombination , nums , ind+1);
 
         currCombination.removeLast();
-
-        // Skip duplicates
-        while(ind < nums.length-1 && nums[ind] == nums[ind+1]) ind++;
 
         // Not pick
         backtrack(allCombinations , currCombination , nums , ind+1);

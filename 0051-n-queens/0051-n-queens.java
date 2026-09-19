@@ -1,7 +1,7 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> validBoards = new ArrayList<>();
-        
+
         char[][] board = new char[n][n];
 
         for(int i=0 ; i<n ; i++){
@@ -16,12 +16,11 @@ class Solution {
     }
 
     void solve(List<List<String>> validBoards , char[][] board , int n , int row){
-        
-        // Base Case
-        // All rows have been visited
+
+        // All Queens placed
         if(row == n){
 
-            // Converting board to ArrayList
+            // Converting char[][] to list
             List<String> currBoard = new ArrayList<>();
 
             for(int i=0 ; i<n ; i++){
@@ -33,33 +32,32 @@ class Solution {
             return;
         }
 
-        for(int i=0 ; i<n ; i++){
+        for(int col=0 ; col<n ; col++){
 
-            if(isSafe(board , n , row , i)){
+            // Check if we can place a queen at this position
+            if(isValid(board , row , col)){
+                board[row][col] = 'Q';
 
-                board[row][i] = 'Q';
-
-                // One Queen is placed in this row , try to place in next rows
+                // Recursive call
                 solve(validBoards , board , n , row+1);
 
                 // Backtrack
-                board[row][i] = '.';
+                board[row][col] = '.';
             }
 
         }
-       
     }
 
-    boolean isSafe(char[][] board , int n , int row , int col){
+    boolean isValid(char[][] board , int row , int col){
 
-        // Check in same column till the current row
+        // Check in same column till curr row
         for(int i=0 ; i<row ; i++){
             if(board[i][col] == 'Q') return false;
         }
 
         int r = row , c = col;
 
-        // Left - Upside diagonal Check
+        // Check in left - upside diagonal
         while(r >= 0 && c >= 0){
             if(board[r][c] == 'Q') return false;
 
@@ -67,10 +65,11 @@ class Solution {
             c--;
         }
 
-        r = row ; c = col;
+        r = row;
+        c = col;
 
-        // Right - Upside diagonal Check
-        while(r >= 0 && c < n){
+        // Check in right - upside diagonal
+        while(r >= 0 && c <= board.length-1){
             if(board[r][c] == 'Q') return false;
 
             r--;
@@ -78,6 +77,5 @@ class Solution {
         }
 
         return true;
-
     }
 }

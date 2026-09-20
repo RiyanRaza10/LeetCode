@@ -17,24 +17,17 @@ class Solution {
             // We might have formed a group with this 
             if(!map.containsKey(hand[i])) continue;
 
-            int group = 1 , cnt = 1;
+            int group = 0 , cnt = 0;
 
-            // Decrement frequency of current card
-            map.put(hand[i] , map.get(hand[i])-1);
-            if(map.get(hand[i]) == 0) map.remove(hand[i]);
-
-            if(map.containsKey(hand[i]+cnt)){
-
-                // Form a group of size groupSize with consecutive cards
-                while(group < groupSize && map.containsKey(hand[i]+cnt)){
+            // Form a group of size groupSize with consecutive cards
+            while(group < groupSize && map.containsKey(hand[i]+cnt)){
                     
-                    // Decrement frequency
-                    map.put(hand[i]+cnt , map.get(hand[i]+cnt) - 1);
-                    if(map.get(hand[i]+cnt) == 0) map.remove(hand[i]+cnt);
+                // Decrement frequency
+                map.put(hand[i]+cnt , map.get(hand[i]+cnt) - 1);
+                if(map.get(hand[i]+cnt) == 0) map.remove(hand[i]+cnt);
 
-                    group++;
-                    cnt++;
-                }
+                group++;
+                cnt++;
             }
 
             // Check if a group of size groupSize is formed

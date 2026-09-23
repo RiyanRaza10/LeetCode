@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/RiyanRaza10/LeetCode/tree/master/1537-get-the-maximum-score) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RiyanRaza10/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiyanRaza10/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiyanRaza10/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RiyanRaza10/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/RiyanRaza10/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiyanRaza10/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/RiyanRaza10/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RiyanRaza10/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiyanRaza10/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiyanRaza10/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RiyanRaza10/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RiyanRaza10/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RiyanRaza10/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiyanRaza10/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/RiyanRaza10/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RiyanRaza10/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/RiyanRaza10/LeetCode/tree/master/2090-k-radius-subarray-averages) |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyanRaza10/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RiyanRaza10/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiyanRaza10/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/RiyanRaza10/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RiyanRaza10/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1901-find-a-peak-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/1901-find-a-peak-element-ii) |

@@ -1,56 +1,45 @@
 class Solution {
 
-    long calculateTotalBouquets(int[] bloomDay , int k , int maxDay){
-        int cnt = 0;
-        long totalBouquets = 0;
+    boolean canMakeAll(int[] bloomDay , int m , int k , int maxdays){
+        long currBouquet = 0;
+        int currGroupSize = 0;
 
-        for(int val : bloomDay){
-            if(val <= maxDay){
-                cnt++;
+        for(int i=0 ; i<bloomDay.length ; i++){
+            if(bloomDay[i] <= maxdays){
+                currGroupSize++;
             }
 
             else{
-                totalBouquets += (cnt / k);
-                cnt = 0;
+                currGroupSize = 0;
+            }
+
+            if(currGroupSize == k){
+                currBouquet++;
+                currGroupSize = 0;
             }
         }
 
-        totalBouquets += (cnt / k);
-
-        return totalBouquets;
-
+        return currBouquet >= m;
     }
 
     public int minDays(int[] bloomDay, int m, int k) {
-        
-        // Flowers kam pad gye
         if((long)m * k > bloomDay.length) return -1;
 
-        int left = Integer.MAX_VALUE , right = -1;
+        int left = 1 , right = -1 , minDays = -1;
 
-        for(int val : bloomDay){
-            if(val < left) left = val;
-            if(val > right ) right = val;
-        }
-
-        int minDays = right;
+        for(int val : bloomDay) right = Math.max(right , val);
 
         while(left <= right){
             int mid = left + (right - left) / 2;
 
-            long currBouquetsFormed = calculateTotalBouquets(bloomDay , k , mid);
-
-            // Valid number of bouquet formed
-            if(currBouquetsFormed >= (long)m){
+            if(canMakeAll(bloomDay , m , k , mid)){
                 minDays = mid;
-                right = mid -1;
+                right = mid - 1;
             }
 
             else left = mid + 1;
-
         }
 
         return minDays;
-    
     }
 }

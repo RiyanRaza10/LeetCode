@@ -1,46 +1,44 @@
 class Solution {
 
-    int calculateDays(int[] weights , int capacity){
-        int ans = 1 , currCap = 0;
+    boolean canShip(int[] weights , int days , int maxCap){
+        int currDays = 1 , currCap = 0;
 
         for(int weight : weights){
-            if(currCap + weight <= capacity){
+            if(currCap + weight <= maxCap){
                 currCap += weight;
             }
+
             else{
-                ans++;
+                currDays++;
                 currCap = weight;
             }
         }
 
-        return ans;
+        return currDays <= days;
     }
 
     public int shipWithinDays(int[] weights, int days) {
         int left = -1 , right = 0;
 
-        for(int weight : weights){
-            if(weight > left) left = weight;
+        for(int val : weights){
+            left = Math.max(left , val);
 
-            right += weight;
+            right += val;
         }
 
-        int minCapacity = right;
+        int minCap = 0;
 
         while(left <= right){
             int mid = left + (right - left) / 2;
 
-            int currDays = calculateDays(weights , mid);
-
-            // Valid Day found
-            if(currDays <= days){
-                minCapacity = mid;
+            if(canShip(weights , days , mid)){
+                minCap = mid;
                 right = mid - 1;
             }
 
             else left = mid + 1;
         }
 
-        return minCapacity;
+        return minCap;
     }
 }

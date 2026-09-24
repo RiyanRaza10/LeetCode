@@ -1,42 +1,32 @@
 class Solution {
+    boolean canDivide(int[] nums , int threshold , int divisor){
+        int currSum = 0;
 
-    int findDivisor(int[] nums , int divisor){
-        int ans = 0;
-
-        for(int num : nums){
-            ans += Math.ceil((double)(num) / divisor);
+        for(int val : nums){
+            currSum += (int)Math.ceil((double)val / divisor);
         }
-        
-        return ans;
+
+        return currSum <= threshold;
     }
 
     public int smallestDivisor(int[] nums, int threshold) {
-        int left = 1 , right = Integer.MIN_VALUE;
+        int left = 1 , right = -1;
 
-        // Taking maximum divisor as max(nums) 
-        for(int val : nums){
-            if(val > right) right = val;
-        }
-       
-        int minDivisor = 1;
+        for(int val : nums) right = Math.max(right , val);
+
+        int ans = 0;
 
         while(left <= right){
-
             int mid = left + (right - left) / 2;
 
-            int currDivSum = findDivisor(nums , mid);
-
-            // Minimum found , search left of mid
-            if(currDivSum <= threshold){
-                minDivisor = mid;
-
+            if(canDivide(nums , threshold , mid)){
+                ans = mid;
                 right = mid - 1;
             }
 
             else left = mid + 1;
-        }
+        } 
 
-        return minDivisor;
-
+        return ans;
     }
 }

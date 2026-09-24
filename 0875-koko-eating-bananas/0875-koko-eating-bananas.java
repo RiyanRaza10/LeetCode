@@ -1,41 +1,33 @@
 class Solution {
 
-    long findSpeed(int[]piles , int speed){
-        long ans = 0;
+    boolean canEatAll(int[] piles , long speed , int hours){
+        long currHours = 0;
 
         for(int pile : piles){
-            ans += (long)Math.ceil((double)(pile) / speed);
+            currHours += (long)Math.ceil((double)(pile) / speed);
         }
         
-        return ans;
-        
+        return currHours <= hours;
     }
 
     public int minEatingSpeed(int[] piles, int h) {
-        int left = 1 , right = Integer.MIN_VALUE;
+        long left = 1 , right = -1;
 
-        for(int val : piles){
-            if(val > right) right = val;
-        }
+        for(int val : piles) right = Math.max(right , val);
 
-        int minHours = 1;
+        long ans = 1;
 
         while(left <= right){
-            int mid = left + (right - left) / 2;
+            long mid = left + (right - left) / 2;
 
-            long currHours = findSpeed(piles , mid);
-
-            // Minimum found
-            if(currHours <= (long)h){
-                
-                minHours = mid;
-
-                right = mid - 1; 
+            if(canEatAll(piles , mid , h)){
+                ans = mid;
+                right = mid - 1;
             }
 
             else left = mid + 1;
         }
 
-        return minHours;
+        return (int)ans;
     }
 }

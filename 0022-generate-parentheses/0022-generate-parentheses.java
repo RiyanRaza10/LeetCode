@@ -2,42 +2,34 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> allCombinations = new ArrayList<>();
 
-        backtrack(allCombinations , new StringBuilder() , n , 0 , 0);
+        generate(allCombinations , new StringBuilder() , n , 0 , 0);
 
         return allCombinations;
-
     }
 
-    void backtrack(List<String> allCombinations , StringBuilder curr , int n , int open , int closed){
+    void generate(List<String> allCombinations , StringBuilder res , int n , int open , int close){
 
-        // Invalid parentheses , go back
-        if(open > n || closed > n || closed > open) return;
+        // Invalid Combination
+        if(open > n || close > n || close > open) return;
 
-        // Valid combination
-        if(curr.length() == 2*n){
-            allCombinations.add(curr.toString());
+        // Valid Combination Found
+        if(open == n && close == n){
+            allCombinations.add(res.toString());
 
             return;
         }
+        
+        // Pick "("
+        generate(allCombinations , res.append("(") , n , open+1 , close);
 
-        // Append open paren
-        if(open < n){
-            curr.append("(");
+        // Backtrack
+        res.deleteCharAt(res.length()-1);
 
-            backtrack(allCombinations , curr , n , open+1 , closed);
+        // Pick ")"
+        generate(allCombinations , res.append(")") , n , open , close+1);
 
-            curr.deleteCharAt(curr.length()-1);
-        }
-
-        // Append closed paren
-        if(closed < n){
-            curr.append(")");
-
-            backtrack(allCombinations , curr , n , open , closed+1);
-
-            curr.deleteCharAt(curr.length()-1);
-        }
-
-
+        // Backtrack
+        res.deleteCharAt(res.length()-1);
+        
     }
 }

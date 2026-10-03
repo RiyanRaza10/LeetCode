@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/RiyanRaza10/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RiyanRaza10/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RiyanRaza10/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiyanRaza10/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1219-path-with-maximum-gold](https://github.com/RiyanRaza10/LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RiyanRaza10/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RiyanRaza10/LeetCode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RiyanRaza10/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0491-non-decreasing-subsequences](https://github.com/RiyanRaza10/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RiyanRaza10/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/RiyanRaza10/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1079-letter-tile-possibilities](https://github.com/RiyanRaza10/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/RiyanRaza10/LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |

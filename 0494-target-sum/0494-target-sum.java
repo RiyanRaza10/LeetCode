@@ -19,15 +19,10 @@ class Solution {
         }
 
         // Take negative of element
-        curr -= (nums[ind]);
-        solve(nums , totalWays , target , curr , ind+1);
+        solve(nums , totalWays , target , curr - nums[ind] , ind+1);
             
-        // Backtrack
-        curr += (nums[ind]);
-
         // Take positive of element
-        curr += nums[ind];
-        solve(nums , totalWays , target , curr , ind+1);
+        solve(nums , totalWays , target , curr + nums[ind] , ind+1);
     
     }
 }

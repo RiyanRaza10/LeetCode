@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiyanRaza10/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiyanRaza10/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1095-find-in-mountain-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiyanRaza10/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/RiyanRaza10/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/RiyanRaza10/LeetCode/tree/master/0670-maximum-swap) |
 | [0775-global-and-local-inversions](https://github.com/RiyanRaza10/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0877-stone-game](https://github.com/RiyanRaza10/LeetCode/tree/master/0877-stone-game) |
+| [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1137-n-th-tribonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/RiyanRaza10/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1137-n-th-tribonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RiyanRaza10/LeetCode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RiyanRaza10/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0491-non-decreasing-subsequences](https://github.com/RiyanRaza10/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -703,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/RiyanRaza10/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0494-target-sum) |
+| [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/RiyanRaza10/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/RiyanRaza10/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -757,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Knapsack Problem
 |  |

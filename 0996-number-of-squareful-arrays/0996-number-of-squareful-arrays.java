@@ -1,28 +1,26 @@
 class Solution {
     public int numSquarefulPerms(int[] nums) {
+        // Array is sorted to keep track of duplicates
         Arrays.sort(nums);
+        
         int[] ans = new int[1];
 
         int n = nums.length;
 
-        Set<List<Integer>> all = new HashSet<>();
+        List<List<Integer>> validPermutations = new ArrayList<>();
         boolean[] used = new boolean[n];
 
-        solve(nums , all , new ArrayList<>() , used , ans , n , 0);
+        solve(nums , validPermutations , new ArrayList<>() , used , ans , n , 0);
 
         return ans[0];
     }
 
-    void solve(int[] nums , Set<List<Integer>> all , List<Integer> curr , boolean[] used , int[] ans , int n , int ind){
+    void solve(int[] nums , List<List<Integer>> validPermutations , List<Integer> curr , boolean[] used , int[] ans , int n , int ind){
         
         // A Valid Permutation formed
         if(curr.size() == n){
-
-            if(!all.contains(curr)){
-                ans[0]++;
-            }
-
-            all.add(new ArrayList<>(curr));
+            ans[0]++;
+            validPermutations.add(new ArrayList<>(curr));
 
             return;
         }
@@ -35,7 +33,8 @@ class Solution {
                 // If 2 numbers are same , it will not generate when previous number is not used
                 if(i > 0 && nums[i] == nums[i-1] && !used[i-1]) continue;
                 
-                // Check if adjacent are not squares , no need to take this element (not generate this permutation)
+                // Check if adjacent are not squares , no need to take this element
+                // (not generate this permutation)
                 if(curr.size() > 0){
                     long num = (long)curr.get(curr.size()-1) + nums[i];
                     long sqrt = (long)Math.sqrt(num);
@@ -49,7 +48,7 @@ class Solution {
                 curr.add(nums[i]);
 
                 // Recursive call
-                solve(nums , all , curr , used , ans , n , i+1);
+                solve(nums , validPermutations , curr , used , ans , n , i+1);
 
                 // Backtrack
                 used[i] = false;

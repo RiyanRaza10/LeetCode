@@ -1,75 +1,46 @@
 class Solution {
-
-    int factorial(int n){
-        int prod = 1;
-
-        while(n > 0){
-            prod *= n;
-            n--;
-        }
-
-        return prod;
-    }
-
     public List<List<Integer>> permuteUnique(int[] nums) {
-        Set<List<Integer>> uniquePermutations = new HashSet<>();
+        Arrays.sort(nums);
 
-        int totalPermutations = factorial(nums.length);
+        int n = nums.length;
 
-        while(totalPermutations-- > 0){
-            List<Integer> currPermutation = new ArrayList<>();
+        List<List<Integer>> uniquePermutations = new ArrayList<>();
+        boolean[] used = new boolean[n];
 
-            for(int val : nums) currPermutation.add(val);
+        generate(uniquePermutations , new ArrayList<>() , used , nums , n);
 
-            uniquePermutations.add(currPermutation);
-
-            nextPermutation(nums);
-        }
-
-        return new ArrayList<>(uniquePermutations);
-        
+        return uniquePermutations;
     }
 
-    void nextPermutation(int[] nums){
-        int ind = -1 , n = nums.length;
+    void generate(List<List<Integer>> uniquePermutations , List<Integer> currPermutation , boolean[] used , int[] nums , int n){
 
-        for(int i=n-2 ; i>=0 ; i--){
-            if(nums[i] < nums[i+1]){
-                ind = i;
-                break;
-            }
-        }
-
-        if(ind == -1){
-            reverse(nums , 0 , n-1);
+        // A Permutation formed
+        if(currPermutation.size() == n){
+            uniquePermutations.add(new ArrayList<>(currPermutation));
 
             return;
         }
 
-        for(int i=n-1 ; i>ind ; i--){
-            if(nums[i] > nums[ind]){
-                int temp = nums[i];
-                nums[i] = nums[ind];
-                nums[ind] = temp;
+        for(int i=0 ; i<n ; i++){
 
-                break;
+            if(!used[i]){
+                
+                // Skip duplicates
+                // Will not generate when previous number(if duplicate) is not used
+                if(i > 0 && nums[i] == nums[i-1] && !used[i-1]) continue;
+
+                // Pick
+                used[i] = true;
+                currPermutation.add(nums[i]);
+
+                // Recursive call 
+                generate(uniquePermutations , currPermutation , used , nums , n);
+
+                // Backtrack
+                used[i] = false;
+                currPermutation.remove(currPermutation.size()-1);
+
             }
         }
-
-        reverse(nums , ind+1 , n-1);
-        
-    }
-
-    void reverse(int[] nums , int start , int end){
-
-        while(start < end){
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
-
-            start++;
-            end--;
-        }
-
     }
 }

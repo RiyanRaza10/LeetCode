@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0848-shifting-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/0848-shifting-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiyanRaza10/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1079-letter-tile-possibilities](https://github.com/RiyanRaza10/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RiyanRaza10/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RiyanRaza10/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiyanRaza10/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/RiyanRaza10/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/RiyanRaza10/LeetCode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/RiyanRaza10/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiyanRaza10/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RiyanRaza10/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1537-get-the-maximum-score](https://github.com/RiyanRaza10/LeetCode/tree/master/1537-get-the-maximum-score) |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiyanRaza10/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dancing Links

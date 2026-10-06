@@ -1,24 +1,26 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Stack<Character> stack = new Stack<>();
-
-        int minAdd = 0;
+        int minAdd = 0 , open = 0;
 
         for(int i=0 ; i<s.length() ; i++){
             char ch = s.charAt(i);
 
-            if(ch == '(') stack.push(')');
+            if(ch == '('){
+                open++;
+            }
 
             else{
-                if(stack.isEmpty()){
+                // Add an open paren atp
+                if(open == 0){
                     minAdd++;
                     continue;
                 }
 
-                stack.pop();
+                // Decrement open
+                open--;
             }
         }
 
-        return minAdd + stack.size();
+        return minAdd + open;
     }
 }

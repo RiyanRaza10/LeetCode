@@ -24,7 +24,7 @@ class Solution {
                 }
             }
 
-            // All visited
+            // All cells visited
             return true;
         }
 

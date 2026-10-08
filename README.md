@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiyanRaza10/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RiyanRaza10/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RiyanRaza10/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3669-balanced-k-factor-decomposition](https://github.com/RiyanRaza10/LeetCode/tree/master/3669-balanced-k-factor-decomposition) |
 | [3870-count-commas-in-range](https://github.com/RiyanRaza10/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/RiyanRaza10/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RiyanRaza10/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3669-balanced-k-factor-decomposition](https://github.com/RiyanRaza10/LeetCode/tree/master/3669-balanced-k-factor-decomposition) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/RiyanRaza10/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Primality Test
 |  |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RiyanRaza10/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3669-balanced-k-factor-decomposition](https://github.com/RiyanRaza10/LeetCode/tree/master/3669-balanced-k-factor-decomposition) |
 | [3799-word-squares-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3799-word-squares-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/RiyanRaza10/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting Sort

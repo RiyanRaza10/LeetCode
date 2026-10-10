@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RiyanRaza10/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/RiyanRaza10/LeetCode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/RiyanRaza10/LeetCode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RiyanRaza10/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/RiyanRaza10/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RiyanRaza10/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/RiyanRaza10/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/RiyanRaza10/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1219-path-with-maximum-gold](https://github.com/RiyanRaza10/LeetCode/tree/master/1219-path-with-maximum-gold) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RiyanRaza10/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/RiyanRaza10/LeetCode/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Radix Sort
 |  |
@@ -819,6 +822,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RiyanRaza10/LeetCode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RiyanRaza10/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

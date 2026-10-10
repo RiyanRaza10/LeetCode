@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/RiyanRaza10/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/RiyanRaza10/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0140-word-break-ii) |
+| [0282-expression-add-operators](https://github.com/RiyanRaza10/LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RiyanRaza10/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0344-reverse-string) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/RiyanRaza10/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RiyanRaza10/LeetCode/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/RiyanRaza10/LeetCode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/RiyanRaza10/LeetCode/tree/master/0326-power-of-three) |
 | [0458-poor-pigs](https://github.com/RiyanRaza10/LeetCode/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/0509-fibonacci-number) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/RiyanRaza10/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/RiyanRaza10/LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/RiyanRaza10/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0494-target-sum) |

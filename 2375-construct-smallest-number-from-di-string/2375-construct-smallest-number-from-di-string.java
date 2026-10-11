@@ -13,6 +13,9 @@ class Solution {
 
     void solve(String pattern , boolean[] used , StringBuilder[] ans , StringBuilder curr , int ind){
         
+        // Do not generate when first letter of curr is greater than first letter of ans
+        if(ans[0].length() == pattern.length()+1 && ans[0].charAt(0) < curr.charAt(0)) return; 
+        
         // A valid combination formed
         if(ind == pattern.length()){
             // First ans

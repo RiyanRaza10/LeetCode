@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/RiyanRaza10/LeetCode/tree/master/1537-get-the-maximum-score) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RiyanRaza10/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiyanRaza10/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiyanRaza10/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RiyanRaza10/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/RiyanRaza10/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RiyanRaza10/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |

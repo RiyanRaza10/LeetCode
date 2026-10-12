@@ -19,9 +19,7 @@ class Solution {
 
         // A valid combination formed
         if (ind == pattern.length()) {
-
-            System.out.println(curr);
-
+            
             // First ans
             if (ans[0].length() == 0)
                 ans[0] = new StringBuilder(curr.toString());

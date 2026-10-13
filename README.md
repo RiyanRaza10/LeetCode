@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/RiyanRaza10/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RiyanRaza10/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RiyanRaza10/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RiyanRaza10/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RiyanRaza10/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RiyanRaza10/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RiyanRaza10/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |

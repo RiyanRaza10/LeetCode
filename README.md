@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiyanRaza10/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiyanRaza10/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RiyanRaza10/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiyanRaza10/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiyanRaza10/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -578,10 +580,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiyanRaza10/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiyanRaza10/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |

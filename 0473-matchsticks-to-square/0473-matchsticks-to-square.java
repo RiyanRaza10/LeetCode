@@ -1,4 +1,6 @@
 class Solution {
+    // Key Idea : Try to place largest pieces first
+
     public boolean makesquare(int[] matchsticks) {
         // Array is sorted , taaki pick krne me aasaani ho
         Arrays.sort(matchsticks);
@@ -12,7 +14,7 @@ class Solution {
         // Impossible lengthss
         if(totalSum % 4 != 0) return false;
 
-        return solve(matchsticks , sidesSum , totalSum / 4 , n , matchsticks.length-1);
+        return solve(matchsticks , sidesSum , totalSum / 4 , n , n-1);
     
     }
 

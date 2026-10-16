@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/RiyanRaza10/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RiyanRaza10/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2326-spiral-matrix-iv](https://github.com/RiyanRaza10/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/RiyanRaza10/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RiyanRaza10/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/RiyanRaza10/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2326-spiral-matrix-iv](https://github.com/RiyanRaza10/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RiyanRaza10/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/RiyanRaza10/LeetCode/tree/master/1324-print-words-vertically) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RiyanRaza10/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RiyanRaza10/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2326-spiral-matrix-iv](https://github.com/RiyanRaza10/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RiyanRaza10/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3498-reverse-degree-of-a-string](https://github.com/RiyanRaza10/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -862,4 +865,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/RiyanRaza10/LeetCode/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->

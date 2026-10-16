@@ -12,7 +12,6 @@ class Solution {
     public int[][] spiralMatrix(int m, int n, ListNode head) {
         int[][] spiral = new int[m][n];
 
-        ListNode temp = head;
         int startRow = 0 , endRow = m-1 , startCol = 0 , endCol = n-1 , cnt = 0;
 
         while(cnt < m*n){
@@ -22,9 +21,9 @@ class Solution {
                 
                 for(int i=startCol ; i<= endCol ; i++){
 
-                    if(temp != null){
-                        spiral[startRow][i] = temp.val;
-                        temp = temp.next;
+                    if(head != null){
+                        spiral[startRow][i] = head.val;
+                        head = head.next;
                     }
                     else spiral[startRow][i] = -1;
 
@@ -39,9 +38,9 @@ class Solution {
 
                 for(int i=startRow ; i <= endRow ; i++){
 
-                    if(temp != null){
-                        spiral[i][endCol] = temp.val;
-                        temp = temp.next;
+                    if(head != null){
+                        spiral[i][endCol] = head.val;
+                        head = head.next;
                     }
                     else spiral[i][endCol] = -1;
 
@@ -56,9 +55,9 @@ class Solution {
 
                 for(int i=endCol ; i >= startCol ; i--){
 
-                    if(temp != null){
-                        spiral[endRow][i] = temp.val;
-                        temp = temp.next;
+                    if(head != null){
+                        spiral[endRow][i] = head.val;
+                        head = head.next;
                     }
                     else spiral[endRow][i] = -1;
 
@@ -73,9 +72,9 @@ class Solution {
 
                 for(int i=endRow ; i >= startRow ; i--){
                     
-                    if(temp != null){
-                        spiral[i][startCol] = temp.val;
-                        temp = temp.next;
+                    if(head != null){
+                        spiral[i][startCol] = head.val;
+                        head = head.next;
                     }
                     else spiral[i][startCol] = -1;
 

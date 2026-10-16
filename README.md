@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RiyanRaza10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/RiyanRaza10/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/RiyanRaza10/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/RiyanRaza10/LeetCode/tree/master/0069-sqrtx) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RiyanRaza10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/RiyanRaza10/LeetCode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/RiyanRaza10/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RiyanRaza10/LeetCode/tree/master/0326-power-of-three) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RiyanRaza10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/RiyanRaza10/LeetCode/tree/master/2326-spiral-matrix-iv) |

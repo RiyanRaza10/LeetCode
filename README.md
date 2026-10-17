@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/RiyanRaza10/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RiyanRaza10/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1901-find-a-peak-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RiyanRaza10/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2090-k-radius-subarray-averages](https://github.com/RiyanRaza10/LeetCode/tree/master/2090-k-radius-subarray-averages) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1537-get-the-maximum-score](https://github.com/RiyanRaza10/LeetCode/tree/master/1537-get-the-maximum-score) |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RiyanRaza10/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Memoization
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RiyanRaza10/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/RiyanRaza10/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RiyanRaza10/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RiyanRaza10/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
@@ -844,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/RiyanRaza10/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -869,4 +874,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/RiyanRaza10/LeetCode/tree/master/2326-spiral-matrix-iv) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Bipartite Graph
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Perfect Matching
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Minimum-Cost Flow
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Flow Network
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->

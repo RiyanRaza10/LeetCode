@@ -50,6 +50,7 @@ class Solution {
         rev = rev.next;
         ListNode prevv = null;
 
+        // Reverse doubled ans (rev)
         while(rev != null){
             ListNode front = rev.next;
             rev.next = prevv;

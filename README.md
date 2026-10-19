@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RiyanRaza10/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/RiyanRaza10/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RiyanRaza10/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RiyanRaza10/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RiyanRaza10/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RiyanRaza10/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RiyanRaza10/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RiyanRaza10/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RiyanRaza10/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RiyanRaza10/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/RiyanRaza10/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RiyanRaza10/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |

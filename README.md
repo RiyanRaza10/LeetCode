@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiyanRaza10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/RiyanRaza10/LeetCode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RiyanRaza10/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RiyanRaza10/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/0509-fibonacci-number) |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiyanRaza10/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |

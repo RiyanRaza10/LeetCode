@@ -10,40 +10,49 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        int n = 0;
+        int n = 0 , maxSum = 0;
 
         ListNode temp = head;
 
+        // Count length of linked list
         while(temp != null){
             n++;
             temp = temp.next;
         }
 
-        ListNode prev = null;
-
+        int cnt = 0;
         temp = head;
 
-        while(temp != null){
-            ListNode neww = new ListNode(temp.val);
-
-            neww.next = prev;
-            prev = neww;
-
+        // Move temp to lst node of left-half
+        while(cnt < n/2-1){
             temp = temp.next;
+            cnt++;
         }
 
-        int cnt = 0 , maxSum = 0;
+        ListNode rev = temp.next;
+        ListNode rightHalf = null;
+
+        // Reverse right half
+        while(rev != null){
+            ListNode front = rev.next;
+            rev.next = null;
+
+            rev.next = rightHalf;
+            rightHalf = rev;
+
+            rev = front;
+        }
+        
+        temp.next = rightHalf;
         temp = head;
 
-        while(cnt < n/2){
-            int currSum = temp.val + prev.val;
+        while(rightHalf != null){
+            int currSum = temp.val + rightHalf.val;
 
             maxSum = Math.max(maxSum , currSum);
 
             temp = temp.next;
-            prev = prev.next;
-
-            cnt++;
+            rightHalf = rightHalf.next;
         }
 
         return maxSum;

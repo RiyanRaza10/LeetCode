@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RiyanRaza10/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/RiyanRaza10/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RiyanRaza10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiyanRaza10/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/RiyanRaza10/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |

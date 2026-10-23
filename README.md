@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/RiyanRaza10/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RiyanRaza10/LeetCode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0137-single-number-ii) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RiyanRaza10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/RiyanRaza10/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/RiyanRaza10/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0140-word-break-ii) |

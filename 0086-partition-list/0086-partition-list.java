@@ -40,7 +40,7 @@ class Solution {
         ListNode smallTail = smallHead;
 
         largeHead = largeHead.next;
-        if(smallTail == null) return largeHead;
+        if(smallTail == null) return largeHead; // No number smaller than x
 
         while(smallTail.next != null) smallTail = smallTail.next;
 

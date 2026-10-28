@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiyanRaza10/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/RiyanRaza10/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0931-minimum-falling-path-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/RiyanRaza10/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/RiyanRaza10/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/RiyanRaza10/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/RiyanRaza10/LeetCode/tree/master/0784-letter-case-permutation) |
+| [0980-unique-paths-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/RiyanRaza10/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/RiyanRaza10/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/RiyanRaza10/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/RiyanRaza10/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [0980-unique-paths-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/RiyanRaza10/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/RiyanRaza10/LeetCode/tree/master/1219-path-with-maximum-gold) |
@@ -974,4 +978,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->

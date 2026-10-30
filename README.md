@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RiyanRaza10/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RiyanRaza10/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RiyanRaza10/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RiyanRaza10/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RiyanRaza10/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3536-maximum-product-of-two-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/RiyanRaza10/LeetCode/tree/master/1537-get-the-maximum-score) |
 | [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RiyanRaza10/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Memoization
 |  |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/RiyanRaza10/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RiyanRaza10/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RiyanRaza10/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -670,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+| [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RiyanRaza10/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/RiyanRaza10/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting
@@ -720,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/1291-sequential-digits) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RiyanRaza10/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -848,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RiyanRaza10/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RiyanRaza10/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3669-balanced-k-factor-decomposition](https://github.com/RiyanRaza10/LeetCode/tree/master/3669-balanced-k-factor-decomposition) |

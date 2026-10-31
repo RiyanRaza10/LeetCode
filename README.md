@@ -990,4 +990,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0980-unique-paths-iii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/RiyanRaza10/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

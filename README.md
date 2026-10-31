@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/RiyanRaza10/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0775-global-and-local-inversions](https://github.com/RiyanRaza10/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RiyanRaza10/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RiyanRaza10/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/RiyanRaza10/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/RiyanRaza10/LeetCode/tree/master/0695-max-area-of-island) |
 | [0931-minimum-falling-path-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/RiyanRaza10/LeetCode/tree/master/1219-path-with-maximum-gold) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RiyanRaza10/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/RiyanRaza10/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/RiyanRaza10/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0695-max-area-of-island](https://github.com/RiyanRaza10/LeetCode/tree/master/0695-max-area-of-island) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Radix Sort
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/RiyanRaza10/LeetCode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0695-max-area-of-island](https://github.com/RiyanRaza10/LeetCode/tree/master/0695-max-area-of-island) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/RiyanRaza10/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -937,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/RiyanRaza10/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/RiyanRaza10/LeetCode/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |

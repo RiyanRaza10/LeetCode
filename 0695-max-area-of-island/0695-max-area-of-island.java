@@ -3,8 +3,6 @@ class Solution {
         int maxArea = 0;
         
         int m = grid.length , n = grid[0].length;
-        
-        boolean[][] vis = new boolean[m][n];
 
         for(int i=0 ; i<m ; i++){
             for(int j=0 ; j<n ; j++){
@@ -12,7 +10,7 @@ class Solution {
                 if(grid[i][j] == 1){
                     int[] currArea = new int[1];
 
-                    solve(grid , vis , currArea , m , n , i , j);
+                    solve(grid , currArea , m , n , i , j);
 
                     maxArea = Math.max(maxArea , currArea[0]);
                 }
@@ -22,17 +20,16 @@ class Solution {
         return maxArea;
     }
 
-    void solve(int[][] grid , boolean[][] vis , int[] curr , int m , int n , int row , int col){
+    void solve(int[][] grid , int[] curr , int m , int n , int row , int col){
         
-        if(row < 0 || row >= m || col < 0 || col >= n || grid[row][col] == 0 || vis[row][col]) return;
+        if(row < 0 || row >= m || col < 0 || col >= n || grid[row][col] == 0) return;
         
         curr[0] += 1;
-        vis[row][col] = true;
         grid[row][col] = 0;
 
-        solve(grid , vis , curr ,  m , n , row+1 , col);
-        solve(grid , vis , curr ,  m , n , row-1 , col);
-        solve(grid , vis , curr ,  m , n , row , col+1);
-        solve(grid , vis , curr ,  m , n , row , col-1);
+        solve(grid , curr ,  m , n , row+1 , col);
+        solve(grid , curr ,  m , n , row-1 , col);
+        solve(grid , curr ,  m , n , row , col+1);
+        solve(grid , curr ,  m , n , row , col-1);
     }
 }

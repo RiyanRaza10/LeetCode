@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/RiyanRaza10/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
+| [2761-prime-pairs-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RiyanRaza10/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/RiyanRaza10/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2761-prime-pairs-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/RiyanRaza10/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RiyanRaza10/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
+| [2761-prime-pairs-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RiyanRaza10/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/RiyanRaza10/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2761-prime-pairs-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RiyanRaza10/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3669-balanced-k-factor-decomposition](https://github.com/RiyanRaza10/LeetCode/tree/master/3669-balanced-k-factor-decomposition) |

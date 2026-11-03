@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RiyanRaza10/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0213-house-robber-ii) |
+| [0397-integer-replacement](https://github.com/RiyanRaza10/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/RiyanRaza10/LeetCode/tree/master/0458-poor-pigs) |
 | [0473-matchsticks-to-square](https://github.com/RiyanRaza10/LeetCode/tree/master/0473-matchsticks-to-square) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/RiyanRaza10/LeetCode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RiyanRaza10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RiyanRaza10/LeetCode/tree/master/0134-gas-station) |
+| [0397-integer-replacement](https://github.com/RiyanRaza10/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/RiyanRaza10/LeetCode/tree/master/0670-maximum-swap) |
 | [0763-partition-labels](https://github.com/RiyanRaza10/LeetCode/tree/master/0763-partition-labels) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/RiyanRaza10/LeetCode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RiyanRaza10/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0397-integer-replacement](https://github.com/RiyanRaza10/LeetCode/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/RiyanRaza10/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/RiyanRaza10/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/RiyanRaza10/LeetCode/tree/master/0526-beautiful-arrangement) |

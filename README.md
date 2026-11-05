@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/RiyanRaza10/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/RiyanRaza10/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/RiyanRaza10/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [2761-prime-pairs-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/RiyanRaza10/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RiyanRaza10/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/RiyanRaza10/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RiyanRaza10/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
@@ -946,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RiyanRaza10/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/RiyanRaza10/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/RiyanRaza10/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Radix Sort
 |  |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-numbers-with-same-consecutive-differences](https://github.com/RiyanRaza10/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1020-number-of-enclaves](https://github.com/RiyanRaza10/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/RiyanRaza10/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -986,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RiyanRaza10/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/RiyanRaza10/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/RiyanRaza10/LeetCode/tree/master/1020-number-of-enclaves) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/RiyanRaza10/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |

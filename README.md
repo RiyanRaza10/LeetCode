@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiyanRaza10/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/RiyanRaza10/LeetCode/tree/master/0994-rotting-oranges) |
 | [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiyanRaza10/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RiyanRaza10/LeetCode/tree/master/0695-max-area-of-island) |
 | [0931-minimum-falling-path-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/RiyanRaza10/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RiyanRaza10/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/RiyanRaza10/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1314-matrix-block-sum) |
@@ -985,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/RiyanRaza10/LeetCode/tree/master/0695-max-area-of-island) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/RiyanRaza10/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [0994-rotting-oranges](https://github.com/RiyanRaza10/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RiyanRaza10/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/RiyanRaza10/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |

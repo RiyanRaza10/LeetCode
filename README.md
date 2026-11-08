@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiyanRaza10/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyanRaza10/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiyanRaza10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiyanRaza10/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RiyanRaza10/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/RiyanRaza10/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1085,4 +1088,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->

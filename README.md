@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/RiyanRaza10/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiyanRaza10/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/RiyanRaza10/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/RiyanRaza10/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1219-path-with-maximum-gold](https://github.com/RiyanRaza10/LeetCode/tree/master/1219-path-with-maximum-gold) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RiyanRaza10/LeetCode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiyanRaza10/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RiyanRaza10/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RiyanRaza10/LeetCode/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -1037,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0707-design-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/RiyanRaza10/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |

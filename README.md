@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiyanRaza10/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3708-longest-fibonacci-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/3708-longest-fibonacci-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RiyanRaza10/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/RiyanRaza10/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [3693-climbing-stairs-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |

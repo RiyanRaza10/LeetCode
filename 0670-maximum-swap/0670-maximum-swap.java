@@ -9,13 +9,13 @@ class Solution {
             int maxInd = -1;
 
             for(int j=i+1 ; j<n ; j++){
-                if(nums[j] > max || (nums[j] == max && nums[j] != nums[i])){
+                if(nums[j] >= max ){
                     max = nums[j];
                     maxInd = j;
                 }
             }
 
-            if(maxInd != -1){
+            if(maxInd != -1 && max != nums[i]){
                 char temp = nums[i];
                 nums[i] = max;
                 nums[maxInd] = temp;

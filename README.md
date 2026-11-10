@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiyanRaza10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0556-next-greater-element-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0344-reverse-string) |
 | [0475-heaters](https://github.com/RiyanRaza10/LeetCode/tree/master/0475-heaters) |
+| [0556-next-greater-element-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0556-next-greater-element-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/RiyanRaza10/LeetCode/tree/master/0670-maximum-swap) |
 | [0775-global-and-local-inversions](https://github.com/RiyanRaza10/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0877-stone-game](https://github.com/RiyanRaza10/LeetCode/tree/master/0877-stone-game) |

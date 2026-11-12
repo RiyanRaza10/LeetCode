@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/RiyanRaza10/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RiyanRaza10/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/RiyanRaza10/LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiyanRaza10/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RiyanRaza10/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RiyanRaza10/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/RiyanRaza10/LeetCode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Greedy
 |  |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/RiyanRaza10/LeetCode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/RiyanRaza10/LeetCode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -1120,5 +1123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/RiyanRaza10/LeetCode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->

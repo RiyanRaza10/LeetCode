@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RiyanRaza10/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/RiyanRaza10/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2211-count-collisions-on-a-road](https://github.com/RiyanRaza10/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RiyanRaza10/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/RiyanRaza10/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RiyanRaza10/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/RiyanRaza10/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RiyanRaza10/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2211-count-collisions-on-a-road](https://github.com/RiyanRaza10/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2326-spiral-matrix-iv](https://github.com/RiyanRaza10/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RiyanRaza10/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2211-count-collisions-on-a-road](https://github.com/RiyanRaza10/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RiyanRaza10/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack

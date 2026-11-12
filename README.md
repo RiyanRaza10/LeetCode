@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RiyanRaza10/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RiyanRaza10/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/RiyanRaza10/LeetCode/tree/master/0120-triangle) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RiyanRaza10/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RiyanRaza10/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/RiyanRaza10/LeetCode/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RiyanRaza10/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RiyanRaza10/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/RiyanRaza10/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RiyanRaza10/LeetCode/tree/master/0739-daily-temperatures) |
@@ -1125,4 +1128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/RiyanRaza10/LeetCode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/RiyanRaza10/LeetCode/tree/master/1472-design-browser-history) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RiyanRaza10/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,8 @@ class Solution {
 
         // To keep track of height of '1's for each row
         int[] rowHt = new int[n];
+        int[] pse = new int[n];
+        int[] nse = new int[n];
 
         for(int row=0 ; row<m ; row++){
 
@@ -16,7 +18,6 @@ class Solution {
             Stack<Integer> st = new Stack<>();
             
             // Compute pse's index for each element
-            int[] pse = new int[n];
             for(int ind=0 ; ind<n ; ind++){
                 int curr = rowHt[ind];
 
@@ -29,7 +30,6 @@ class Solution {
             st.clear();
             
             // Compute nse's index for each element
-            int[] nse = new int[n];
             for(int ind=n-1 ; ind>=0 ; ind--){
                 int curr = rowHt[ind];
 

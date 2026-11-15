@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/RiyanRaza10/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RiyanRaza10/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RiyanRaza10/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2187-minimum-time-to-complete-trips](https://github.com/RiyanRaza10/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiyanRaza10/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RiyanRaza10/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RiyanRaza10/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RiyanRaza10/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3862-find-the-smallest-balanced-index](https://github.com/RiyanRaza10/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3903-smallest-stable-index-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/RiyanRaza10/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RiyanRaza10/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/RiyanRaza10/LeetCode/tree/master/2090-k-radius-subarray-averages) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RiyanRaza10/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RiyanRaza10/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/RiyanRaza10/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RiyanRaza10/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RiyanRaza10/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RiyanRaza10/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2187-minimum-time-to-complete-trips](https://github.com/RiyanRaza10/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RiyanRaza10/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RiyanRaza10/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |

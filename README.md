@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/RiyanRaza10/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/RiyanRaza10/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0140-word-break-ii) |
+| [0224-basic-calculator](https://github.com/RiyanRaza10/LeetCode/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/RiyanRaza10/LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RiyanRaza10/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RiyanRaza10/LeetCode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/RiyanRaza10/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/RiyanRaza10/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RiyanRaza10/LeetCode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/RiyanRaza10/LeetCode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/RiyanRaza10/LeetCode/tree/master/0326-power-of-three) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RiyanRaza10/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/RiyanRaza10/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/RiyanRaza10/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/RiyanRaza10/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/RiyanRaza10/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/RiyanRaza10/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RiyanRaza10/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RiyanRaza10/LeetCode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0394-decode-string) |

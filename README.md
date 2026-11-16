@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/RiyanRaza10/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/RiyanRaza10/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiyanRaza10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RiyanRaza10/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/RiyanRaza10/LeetCode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/RiyanRaza10/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RiyanRaza10/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RiyanRaza10/LeetCode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/RiyanRaza10/LeetCode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RiyanRaza10/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |

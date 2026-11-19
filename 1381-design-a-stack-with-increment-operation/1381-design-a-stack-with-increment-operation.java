@@ -11,7 +11,6 @@ class CustomStack {
     }
     
     public int pop() {
-        System.out.println(dq);
         return dq.isEmpty() ? -1 : dq.pollLast();
     }
     

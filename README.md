@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RiyanRaza10/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/RiyanRaza10/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3799-word-squares-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3799-word-squares-ii) |
+| [3834-merge-adjacent-equal-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3862-find-the-smallest-balanced-index](https://github.com/RiyanRaza10/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/RiyanRaza10/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2751-robot-collisions](https://github.com/RiyanRaza10/LeetCode/tree/master/2751-robot-collisions) |
 | [3498-reverse-degree-of-a-string](https://github.com/RiyanRaza10/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3834-merge-adjacent-equal-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack
 |  |
 | ------- |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-remove-nodes-from-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2751-robot-collisions](https://github.com/RiyanRaza10/LeetCode/tree/master/2751-robot-collisions) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3834-merge-adjacent-equal-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [4103-remove-elements-by-type-and-color](https://github.com/RiyanRaza10/LeetCode/tree/master/4103-remove-elements-by-type-and-color) |
 ## Monotonic Stack
 |  |

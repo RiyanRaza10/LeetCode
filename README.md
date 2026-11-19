@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/RiyanRaza10/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3903-smallest-stable-index-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [4103-remove-elements-by-type-and-color](https://github.com/RiyanRaza10/LeetCode/tree/master/4103-remove-elements-by-type-and-color) |
 ## Hash Table
 |  |
 | ------- |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-remove-nodes-from-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2751-robot-collisions](https://github.com/RiyanRaza10/LeetCode/tree/master/2751-robot-collisions) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RiyanRaza10/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [4103-remove-elements-by-type-and-color](https://github.com/RiyanRaza10/LeetCode/tree/master/4103-remove-elements-by-type-and-color) |
 ## Monotonic Stack
 |  |
 | ------- |

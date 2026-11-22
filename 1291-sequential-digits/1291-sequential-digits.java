@@ -1,24 +1,22 @@
 class Solution {
     public List<Integer> sequentialDigits(int low, int high) {
-        List<Integer> ans = new ArrayList<>();
+        List<Integer> res = new ArrayList<>();
 
         for(int i=1 ; i<9 ; i++){
-            solve(ans , low , high , (long)i);
+            solve(res , low , high , (long)i);
         }
-        
-        Collections.sort(ans);
 
-        return ans;
+        Collections.sort(res);
+        return res;
     }
 
-    void solve(List<Integer> ans , int low , int high , long curr){
+    void solve(List<Integer> res , int low , int high , long curr){
 
         if(curr > high) return;
 
-        if(curr >= low && curr <= high) ans.add((int)curr);
-        
-        int prev = (int)curr%10;
-        // Do not generate when prev digit was 9
-        if(prev != 9) solve(ans , low , high , curr*10 + prev+1);
+        if(curr >= low && curr <= high) res.add((int)curr);
+
+        int prevDigit = (int)(curr) % 10;
+        if(prevDigit != 9) solve(res , low , high , curr*10 + (prevDigit + 1));
     }
 }

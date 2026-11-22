@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RiyanRaza10/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/RiyanRaza10/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/RiyanRaza10/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2211-count-collisions-on-a-road](https://github.com/RiyanRaza10/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RiyanRaza10/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/RiyanRaza10/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |

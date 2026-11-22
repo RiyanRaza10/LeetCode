@@ -1,21 +1,16 @@
 class Solution {
     public List<Integer> lexicalOrder(int n) {
-        List<Integer> all = new ArrayList<>();
-
-        solve(all , n , 1);
-
-        return all;
+        List<Integer> res = new ArrayList<>();
+        solve(res , n , 1);
+        return res;
     }
 
-    void solve(List<Integer> all , int n , int curr){
-        // Greater than n , go back
+    void solve(List<Integer> res , int n , int curr){
         if(curr > n) return;
 
-        all.add(curr);
-      
-        solve(all , n , curr*10);
-
-        // In case , last digit of curr == 9 , do not add 1 , go back
-        if((curr%10) != 9) solve(all , n , curr+1);
+        res.add(curr);
+        
+        solve(res , n , curr*10);
+        if((curr%10) != 9) solve(res , n , curr+1);
     }
 }

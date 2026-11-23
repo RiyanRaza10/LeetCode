@@ -1,44 +1,27 @@
-class Pair{
-    int first;
-    int second;
-
-    Pair(int f , int s){
-        this.first = f;
-        this.second = s;
-    }
-}
-
 class MinStack {
-    // Store in a Pair where 
-    // first value is this last inserted value 
-    // second value is the minvalue till that index
-    List<Pair> st = new ArrayList<>();
+    Stack<int[]> st = new Stack<>(); // {currValue , minTillCurr};
 
     public MinStack() {
         
     }
     
     public void push(int value) {
-        if(st.isEmpty() || st.getLast().second >= value) {
-            st.add(new Pair(value , value));
-            return;
-        }
+        int currMin = value;
+        if(!st.isEmpty()) currMin = Math.min(st.peek()[1] , currMin);
 
-        // If min till last value is less than current value
-        int lastMin = st.getLast().second;
-        st.add(new Pair(value , lastMin));
+        st.push(new int[]{value , currMin});
     }
     
     public void pop() {
-        st.removeLast();
+        st.pop();
     }
     
     public int top() {
-        return st.getLast().first;
+        return st.peek()[0];
     }
     
     public int getMin() {
-        return st.getLast().second;
+        return st.peek()[1];
     }
 }
 

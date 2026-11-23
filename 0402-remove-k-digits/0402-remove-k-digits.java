@@ -4,7 +4,6 @@ class Solution {
 
         for(char ch : num.toCharArray()){
 
-            // while curr elem is smaller than prev , remove prev
             while(!dq.isEmpty() && dq.peekLast() > ch && k > 0){
                 dq.pollLast();
                 k--;
@@ -13,10 +12,7 @@ class Solution {
             dq.offerLast(ch);
         }
 
-        // Strictly increasing sequence , remove the largests from last
-        while(k-- > 0) dq.pollLast();
-
-        // Leading zeroes
+        while(k-- > 0 && !dq.isEmpty()) dq.pollLast();
         while(!dq.isEmpty() && dq.peekFirst() == '0') dq.pollFirst();
 
         StringBuilder res = new StringBuilder();

@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyanRaza10/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/RiyanRaza10/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/RiyanRaza10/LeetCode/tree/master/0695-max-area-of-island) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyanRaza10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/RiyanRaza10/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/RiyanRaza10/LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/RiyanRaza10/LeetCode/tree/master/0846-hand-of-straights) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/RiyanRaza10/LeetCode/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/RiyanRaza10/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RiyanRaza10/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/RiyanRaza10/LeetCode/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/RiyanRaza10/LeetCode/tree/master/0670-maximum-swap) |
 | [0763-partition-labels](https://github.com/RiyanRaza10/LeetCode/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/RiyanRaza10/LeetCode/tree/master/0826-most-profit-assigning-work) |
@@ -819,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/RiyanRaza10/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0923-3sum-with-multiplicity](https://github.com/RiyanRaza10/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiyanRaza10/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -955,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RiyanRaza10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/RiyanRaza10/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RiyanRaza10/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |

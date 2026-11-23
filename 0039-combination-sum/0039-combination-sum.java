@@ -1,37 +1,26 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> uniqueCombinations = new ArrayList<>();
+        List<List<Integer>> res = new ArrayList<>();
 
-        backtrack(uniqueCombinations , new ArrayList<>() , candidates , target , 0 , 0);
+        solve(res, new ArrayList<>(), candidates, target , 0);
 
-        return uniqueCombinations;
-
+        return res;
     }
 
-    void backtrack(List<List<Integer>> uniqueCombinations , List<Integer> currCombination , int[] candidates , int target , int currSum , int ind){
-
-        // Cannot pick aage ke element further
-        if(currSum > target) return;
-
-        // Found a valid combination
-        if(currSum == target){
-            uniqueCombinations.add(new ArrayList<>(currCombination));
-
+    void solve(List<List<Integer>> res, List<Integer> curr, int[] nums, int target, int ind) {
+        
+        if(0 == target){
+            res.add(new ArrayList<>(curr));
             return;
         }
 
-        for(int i=ind ; i<candidates.length ; i++){
-
-            currSum += candidates[i];
-            currCombination.add(candidates[i]);
-
-            // Pick current element again
-            backtrack(uniqueCombinations , currCombination , candidates , target , currSum , i);
-
-            // Remove used element , cannot pick this element further
-            currSum -= currCombination.get(currCombination.size()-1);
-            currCombination.remove(currCombination.size()-1);
-            
+        for(int i=ind ; i<nums.length ; i++){
+            if(target - nums[i] >= 0){
+                curr.add(nums[i]);
+                solve(res , curr , nums , target-nums[i] , i);
+                curr.remove(curr.size()-1);
+            }
         }
+        
     }
 }

@@ -3,23 +3,15 @@ class Solution {
         int n = nums.length;
         int[] res = new int[n];
 
-        Stack<Integer> stack = new Stack<>();
-
-        // In the main loop , whenever there is no nge at right,
-        // This will work as the circular array
-        for(int i=n-1 ; i>=0 ; i--) stack.push(nums[i]);
+        Deque<Integer> dq = new ArrayDeque<>();
+        for(int i=0 ; i<n ; i++) dq.offerLast(i);
 
         for(int i=n-1 ; i>=0 ; i--){
-            int curr = nums[i];
+            while(!dq.isEmpty() && nums[dq.peekFirst()] <= nums[i]) dq.pop();
 
-            // Remove smaller/equal elements to the right
-            while(!stack.isEmpty() && stack.peek() <= curr) stack.pop();
-
-            res[i] = stack.isEmpty() ? -1 : stack.peek();
-
-            // Push curr elem into stack
-            stack.push(curr);    
-        }
+            res[i] = dq.isEmpty() ? -1 : nums[dq.peekFirst()];
+            dq.push(i);
+        }   
 
         return res;
     }

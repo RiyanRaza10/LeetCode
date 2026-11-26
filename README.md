@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/RiyanRaza10/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3115-maximum-prime-difference](https://github.com/RiyanRaza10/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RiyanRaza10/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/RiyanRaza10/LeetCode/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiyanRaza10/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RiyanRaza10/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RiyanRaza10/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2596-check-knight-tour-configuration](https://github.com/RiyanRaza10/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2751-robot-collisions](https://github.com/RiyanRaza10/LeetCode/tree/master/2751-robot-collisions) |
+| [3360-stone-removal-game](https://github.com/RiyanRaza10/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/RiyanRaza10/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack

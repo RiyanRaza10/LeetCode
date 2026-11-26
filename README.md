@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RiyanRaza10/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/RiyanRaza10/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RiyanRaza10/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RiyanRaza10/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/RiyanRaza10/LeetCode/tree/master/2090-k-radius-subarray-averages) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/RiyanRaza10/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/RiyanRaza10/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RiyanRaza10/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/RiyanRaza10/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/RiyanRaza10/LeetCode/tree/master/1291-sequential-digits) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/RiyanRaza10/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RiyanRaza10/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/RiyanRaza10/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [2761-prime-pairs-with-target-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -1012,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RiyanRaza10/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1947-maximum-compatibility-score-sum](https://github.com/RiyanRaza10/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/RiyanRaza10/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/RiyanRaza10/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/RiyanRaza10/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2708-maximum-strength-of-a-group](https://github.com/RiyanRaza10/LeetCode/tree/master/2708-maximum-strength-of-a-group) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/RiyanRaza10/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |

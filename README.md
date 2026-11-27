@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/RiyanRaza10/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RiyanRaza10/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/RiyanRaza10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/RiyanRaza10/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/RiyanRaza10/LeetCode/tree/master/0275-h-index-ii) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiyanRaza10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RiyanRaza10/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/RiyanRaza10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiyanRaza10/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RiyanRaza10/LeetCode/tree/master/0567-permutation-in-string) |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RiyanRaza10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/RiyanRaza10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/RiyanRaza10/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/RiyanRaza10/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RiyanRaza10/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -1040,11 +1043,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RiyanRaza10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RiyanRaza10/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RiyanRaza10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RiyanRaza10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Algorithm X
 |  |
@@ -1221,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RiyanRaza10/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/RiyanRaza10/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Least Common Multiple
 |  |
 | ------- |
